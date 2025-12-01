@@ -5,7 +5,7 @@ export class Usuario {
     this.librosPrestados = [];
     this.historial = [];
   }
-
+//hola todos
   // Método tradicional
   tomarPrestado(libro) {
     if (libro.prestar()) {
